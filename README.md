@@ -1,4 +1,4 @@
-![DNA_methylation_reprogramming (1)](https://github.com/user-attachments/assets/974d2a01-6e33-4ef4-b640-aeee2d79124c)# DNA-methylation-comparasion
+# DNA-methylation-comparasion
 Целью данного задания является изучение глобального изменения уровня CpG метилирования ДНК при раннем эмбриональном развитии мыши и наблюдение так называемых волн деметилирования-метилирования.
 Рассматриваются образцы на разных стадиях эмбрионального развития.
 ![DNA_methylation_reprogramming](https://github.com/user-attachments/assets/c407c178-0443-452d-9153-c0319c3af5fd)
