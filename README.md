@@ -1,4 +1,7 @@
 # DNA-methylation-comparasion
+[Ссылка на Google Colab](https://colab.research.google.com/drive/14SWCydcLOHuy3-wHo9sGUYk7ZUA1wKJz?usp=sharing)
+
+
 Целью данного задания является изучение глобального изменения уровня CpG-метилирования ДНК при раннем эмбриональном развитии мыши и наблюдение так называемых волн деметилирования-метилирования.
 Рассматриваются образцы на двух стадиях эмбрионального развития.
 ![DNA_methylation_reprogramming](https://github.com/user-attachments/assets/c407c178-0443-452d-9153-c0319c3af5fd)
